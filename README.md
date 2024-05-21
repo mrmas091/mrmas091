@@ -21,6 +21,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.crossjoin.pt/wp-content/uploads/2020/03/SQLSERVER-website-2048x1365.jpg" alt="mssql" width="50" height="50"/> </a> </p>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.pinpng.com/pngs/m/489-4895811_sql-server-logo-microsoft-png-ms-sql-server.png" alt="mssql" width="50" height="50"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmas091&show_icons=true&locale=en&layout=compact" alt="mrmas091" /></p>
