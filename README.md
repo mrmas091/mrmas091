@@ -21,6 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.pinpng.com/pngs/m/489-4895811_sql-server-logo-microsoft-png-ms-sql-server.png" alt="mssql" width="50" height="50"/> </a> </p>
-
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.pinpng.com/pngs/m/489-4895811_sql-server-logo-microsoft-png-ms-sql-server.png" alt="mssql" width="50" height="50" /></a>
+<a align="center" <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://www.claritus.store/wp-content/uploads/2023/09/Microsoft-Power-BI.webp" alt="powerbi" width="50" height="50" /> </a> </p>
+  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmas091&show_icons=true&locale=en&layout=compact" alt="mrmas091" /></p>
